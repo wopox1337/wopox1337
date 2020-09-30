@@ -35,4 +35,84 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 354 Contributions in the Year 2020
+ > 
+> 📦 2.6 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 17 Public Repositories
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    29 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
+🌆 Daytime    62 commits     ████████░░░░░░░░░░░░░░░░░   34.64% 
+🌃 Evening    55 commits     ███████░░░░░░░░░░░░░░░░░░   30.73% 
+🌙 Night      33 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.44%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       46 commits     ██████░░░░░░░░░░░░░░░░░░░   25.7% 
+Tuesday      37 commits     █████░░░░░░░░░░░░░░░░░░░░   20.67% 
+Wednesday    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
+Thursday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.91% 
+Friday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.7% 
+Saturday     27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.08% 
+Sunday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.08%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Other                    15 hrs 17 mins      ███████████████████████░░   92.35% 
+POVRay                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.57% 
+C++                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9% 
+INI                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6% 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
+
+🔥 Editors: 
+VS Code                  16 hrs 33 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+matchmaking              16 hrs 17 mins      ████████████████████████░   98.41% 
+ReGameDLL_CS             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
+csdm                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+
+💻 Operating System: 
+Mac                      16 hrs 33 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Pawn** 
+
+```text
+Pawn                     5 repos             ███████░░░░░░░░░░░░░░░░░░   31.25% 
+SourcePawn               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/wopox1337/wopox1337/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
