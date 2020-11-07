@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 356 Contributions in the Year 2020
+> 🏆 362 Contributions in the Year 2020
  > 
-> 📦 3.1 kB Used in Github's Storage 
+> 📦 3.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    29 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
+🌞 Morning    30 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76% 
 🌆 Daytime    62 commits     ████████░░░░░░░░░░░░░░░░░   34.64% 
 🌃 Evening    55 commits     ███████░░░░░░░░░░░░░░░░░░   30.73% 
-🌙 Night      33 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.44%
+🌙 Night      32 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.88%
 
 ```
 📅 **I'm Most Productive on Monday** 
