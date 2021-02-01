@@ -22,8 +22,6 @@ Here are some ideas to get you started:
  > 
 > 📦 4.3 kB Used in Github's Storage 
  > 
-> 💼 Opted to Hire
- > 
 > 📜 15 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
@@ -98,3 +96,6 @@ JavaScript               2 repos             ███░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wopox1337)](https://github.com/ryo-ma/github-profile-trophy)
+
