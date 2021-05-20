@@ -57,17 +57,16 @@ Sunday       24 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-POVRay                   13 mins             █████████████████░░░░░░░░   71.18% 
-Other                    5 mins              ███████░░░░░░░░░░░░░░░░░░   28.82%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-matchmaking              19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
