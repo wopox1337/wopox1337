@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node.JS stack
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
